@@ -1,5 +1,5 @@
 {
-	"name": "middleware-time-server",
+	"name": "route-parameter-client",
 	"dependencies": {
 		"body-parser": "^2.2.0",
 		"cookie-parser": "^1.4.7",
@@ -14,7 +14,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/montrell43/middleware-time-server.git"
+		"url": "git+https://github.com/montrell43/route-parameter-client.git"
 	},
 	"engines": {
 		"node": ">=18.18.0 <19.0.0"
@@ -25,7 +25,7 @@
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/montrell43/middleware-time-server/issues"
+		"url": "https://github.com/montrell43/route-parameter-client/issues"
 	},
-	"homepage": "https://github.com/montrell43/middleware-time-server#readme"
+	"homepage": "https://github.com/montrell43/route-parameter-client#readme"
 }
